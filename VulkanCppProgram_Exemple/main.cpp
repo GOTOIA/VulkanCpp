@@ -68,5 +68,7 @@ int main()
 
     instance.destroy();
 
+	system("pause");
+
     return 0;
 }
